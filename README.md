@@ -1,9 +1,9 @@
-# Hi, my name is Sasha!
+# 
 
 **`Backend Dev`**
 
 ### 👨‍💻 About me:
-👋Hi there! I am lerning Backend with a great passion for the programming word.
+
 
 
 - 🔭 Successfully completed 1 Little cource
